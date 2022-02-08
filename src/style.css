@@ -1,0 +1,22 @@
+h1, p {
+  font-family: Lato;
+}
+.betterview{
+  border:1px solid;
+  margin:10px;
+  padding:10px;
+  border-radius: 10px;
+}
+.redback{
+  background-color: indianred;
+}
+.greenback{
+  background-color: seagreen;
+}
+.blueback{
+  background-color: skyblue;
+}
+.mobilesdiv{
+  display: inline-flex;
+  flex-wrap:  wrap;
+}
